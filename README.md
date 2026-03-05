@@ -4,7 +4,7 @@ A Machine Learning web application that predicts software developer salaries bas
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -37,13 +37,13 @@ This project uses real-world survey data to build a regression model capable of 
 
 ## Features
 
-- 🌍 Supports **80+ countries** from the Stack Overflow Developer Survey
-- 🎓 Accounts for **4 education levels** (Less than a Bachelor's, Bachelor's, Master's, Post-grad)
-- 📈 Years of experience slider (0 – 30 years)
-- 📊 Interactive **pie chart** showing the distribution of survey respondents by country
-- 📊 Interactive **bar chart** showing mean salary per country
-- 📊 Interactive **line chart** showing mean salary by years of professional experience
-- ⚡ Fast predictions served by a pre-trained, serialised model (`saved_steps.pkl`)
+-  Supports **80+ countries** from the Stack Overflow Developer Survey
+-  Accounts for **4 education levels** (Less than a Bachelor's, Bachelor's, Master's, Post-grad)
+-  Years of experience slider (0 – 30 years)
+-  Interactive **pie chart** showing the distribution of survey respondents by country
+-  Interactive **bar chart** showing mean salary per country
+-  Interactive **line chart** showing mean salary by years of professional experience
+-  Fast predictions served by a pre-trained, serialised model (`saved_steps.pkl`)
 
 ---
 
